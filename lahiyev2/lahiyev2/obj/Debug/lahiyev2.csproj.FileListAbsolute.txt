@@ -1,0 +1,2 @@
+C:\Users\ROG STRIX\Desktop\Lahiye\lahiyev2\lahiyev2\obj\Debug\lahiyev2.csprojAssemblyReference.cache
+C:\Users\ROG STRIX\Desktop\Lahiye\lahiyev2\lahiyev2\obj\Debug\lahiyev2.csproj.CoreCompileInputs.cache
